@@ -1,5 +1,14 @@
 # FitnessTracker
 
+This fitness app is an application build in Angular that can be downloaded on any mobile device and used anywhere to get fit. ... Apps can perform various functions such as allowing users to set fitness goals, tracking caloric intake and gathering workout ideas to facilitate healthy behavior change.
+
+* New user can signup with email and brithdate
+* On successful login keep track on any exercise/workout.
+* Intermediate start, stop and continue is possible during the workout session
+* The user can traverse to either new exercise tab or past exercise tab
+* Past exercise tab will persist any pervious work outs of the user 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
 ## Development server
